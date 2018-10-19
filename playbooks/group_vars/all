@@ -8,7 +8,7 @@ node_mem: 16384
 node_vcpus: 4
 sizing: fixed
 bandwidth_limit: 1
-ocp_version: "3.10"
+ocp_version: "3.11"
 repos:
 - rhel-7-server-rpms
 - rhel-7-server-extras-rpms
